@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d5wll64j8i80","created":1732673763053,"text":"自动控制系统"},"children":[{"data":{"id":"d5wlld9dxgg0","created":1732673778584,"text":"组成：被控对象"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d5wll64j8i80","created":1732673763053,"text":"自动控制系统"},"children":[{"data":{"id":"d5wlld9dxgg0","created":1732673778584,"text":"组成：被控对象、测量元件、变送器、"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
