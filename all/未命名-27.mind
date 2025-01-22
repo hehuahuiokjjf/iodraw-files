@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d78d1a9l5og0","created":1737524513823,"text":"压力仪表"},"children":[{"data":{"id":"d78d1mgr02o0","created":1737524540378,"text":"原理：弹性元件在介质压力作用下产生的弹性变形，通过齿轮传动机构（机芯）放大，从而"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d78d1a9l5og0","created":1737524513823,"text":"压力仪表"},"children":[{"data":{"id":"d78d1mgr02o0","created":1737524540378,"text":"原理：弹性元件在介质压力作用下产生的弹性变形，通过齿轮传动机构（机芯）放大，从而由指针在度盘上指示出相应的压力值"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
