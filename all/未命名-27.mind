@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d7a2n8rd6hc0","created":1737698322261,"text":"变送器"},"children":[{"data":{"id":"d7a2nf1j47s0","created":1737698335936,"text":"信号"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d7a2n8rd6hc0","created":1737698322261,"text":"变送器"},"children":[{"data":{"id":"d7a2nf1j47s0","created":1737698335936,"text":"信号"},"children":[{"data":{"id":"d7a2njaqo9s0","created":1737698345200,"text":"4~20mA HART"},"children":[]}]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
